@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.47](https://github.com/meridianlabs-ai/inspect_scout/compare/0.4.46...0.4.47) (2026-08-14)
+
+
+### Bug Fixes
+
+* bump openai to &gt;=3.0.0; pass allow_remote_mcp to inspect_ai bridge tool converters ([#562](https://github.com/meridianlabs-ai/inspect_scout/issues/562)) ([e799945](https://github.com/meridianlabs-ai/inspect_scout/commit/e79994514349d740e7b914fd5fdd2b9dc0b25619))
+
 ## [0.4.46](https://github.com/meridianlabs-ai/inspect_scout/compare/0.4.45...0.4.46) (2026-08-05)
 
 
